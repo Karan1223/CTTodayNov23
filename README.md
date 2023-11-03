@@ -1,3 +1,3 @@
-# CTTodayOct23
+# CTTodayNov23
 
-CT Today mailer for October 2023.
+CT Today mailer for November 2023.
